@@ -1,1 +1,0 @@
-;; Solución comparativa en Scheme
